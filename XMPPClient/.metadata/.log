@@ -1,0 +1,9 @@
+!SESSION 2012-07-03 11:52:16.356 -----------------------------------------------
+eclipse.buildId=M20110210-1200
+java.version=1.6.0_21
+java.vendor=Sun Microsystems Inc.
+BootLoader constants: OS=linux, ARCH=x86, WS=gtk, NL=en_US
+Command-line arguments:  -os linux -ws gtk -arch x86
+
+!ENTRY com.android.ide.eclipse.ddms 4 0 2012-07-03 11:52:39.640
+!MESSAGE DDMS files not found: /home/huber/SDK_droid/eclipse/platform-tools/adb /home/huber/SDK_droid/eclipse/tools/hprof-conv /home/huber/SDK_droid/eclipse/tools/traceview 

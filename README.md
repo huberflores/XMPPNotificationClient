@@ -32,9 +32,11 @@ Common error: java.lang.NoClassDefFoundError: org.jivesoftware.smack.ConnectionC
 [SOLVED]
 smack.jar is not included within your dependencies when you installed the apk in the device. Try
 
-'''xml
+```xml
+
 right click project -> properties -> java build path -> order and export -> check smack.jar 
-'''
+
+```
 
 
 

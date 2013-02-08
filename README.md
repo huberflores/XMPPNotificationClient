@@ -7,10 +7,15 @@ Android client that handles notifications which are sent from the [XMPP Notifica
 Installation
 ------------
 
+Build source
+
 - Import code into Eclipse
 
 - Install application in your device
 
+Binary
+
+- Install apk file (XMPPClient.apk)
 
 
 Configuration

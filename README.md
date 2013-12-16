@@ -1,5 +1,5 @@
 XMPP Android Client for JSON-based notifications
-================================================
+=================================================
 
 Android client that handles notifications which are sent from the [XMPP Notification Server](https://github.com/huberflores/XMPPNotificationServer.git). The application stores the notifications within a SQLite database along with the battery level of the device
 
